@@ -1,22 +1,147 @@
 {
   "version": 1,
-  "name": "Your Name",
-  "description": "A Short Description",
+  "name": "Afaq Karim",
+  "description": "Senior Software Engineer | Full-Stack Developer | AI & Blockchain Enthusiast",
   "sections": [
     {
       "title": "About Me",
       "type": "text",
-      "content": "A longer description about you."
+      "content": "I'm a senior software engineer with over 8 years of experience building scalable, high-performance web and mobile applications. My expertise spans across JavaScript (ES6+), TypeScript, Python, Go, and Rust. I’ve worked extensively with React.js, Vue.js, and Node.js, as well as backend frameworks like Django and FastAPI. I’ve led engineering teams, optimized cloud infrastructure with Kubernetes and AWS, and developed mobile apps with React Native, including one that has over half a million downloads. I'm passionate about designing clean, maintainable systems and exploring emerging technologies in AI and blockchain."
     },
     {
       "title": "Experience",
       "type": "list",
       "items": [
         {
-          "title": "Company One",
-          "description": "Software Engineer.",
-          "url": "https://example.com",
-          "date": "2025–Present"
+          "title": "Senior Frontend Developer — Junction Net AI",
+          "description": "Leading frontend architecture using React, Vue, and Nx monorepo. Building reusable design systems and scalable multi-tenant web applications with advanced authentication, smart filters, and dynamic forms.",
+          "url": "https://junctionnet.ai",
+          "date": "2023–Present"
+        },
+        {
+          "title": "Founder & Lead Developer — GilgitApp",
+          "description": "Architected and developed a full-stack mobile app for tourism in Gilgit-Baltistan with real-time chat, location tracking, and booking systems. Achieved over 500,000 downloads on Google Play Store.",
+          "url": "https://play.google.com/store/apps/details?id=com.gilgitapp",
+          "date": "2019–2023"
+        },
+        {
+          "title": "Full-Stack Engineer — Remote Ambition",
+          "description": "Developed and deployed web platforms integrating AI-based job matching and analytics. Designed APIs and microservices in Node.js and Python with optimized frontend performance in React.",
+          "url": "https://remoteambition.com",
+          "date": "2020–2022"
+        }
+      ]
+    },
+    {
+      "title": "Projects",
+      "type": "list",
+      "items": [
+        {
+          "title": "Smart POS & Accounting System",
+          "description": "Designed and developed a modern POS system with integrated accounting features, smart filters, and transaction analytics. Built with Vue.js frontend and a Node.js/NestJS backend with PostgreSQL and Prisma ORM.",
+          "url": ""
+        },
+        {
+          "title": "Dynamic CRM Platform (Multi-Tenant)",
+          "description": "Architected a CRM system supporting multiple organizations with role-based access control and SSO. Implemented dynamic form generation, tenant-specific data models, and scalable APIs using NestJS and Nx monorepo structure.",
+          "url": ""
+        },
+        {
+          "title": "AI Content Automation Agent",
+          "description": "Developed an AI agent for automating daily blog and social media content creation using Make.com, Python, and web scraping. Future goal: evolve into a SaaS platform for content automation.",
+          "url": ""
+        },
+        {
+          "title": "My Gilgit Baltistan",
+          "description": "Created a travel platform showcasing unexplored destinations across Gilgit-Baltistan. Features travel guides, blogs, and videos integrated with social media and SEO optimization.",
+          "url": "https://www.mygilgitbaltistan.com/"
+        },
+        {
+          "title": "TechBazaar Gilgit Baltistan",
+          "description": "Developing an ecommerce store specializing in computer and technology-related products for the Gilgit-Baltistan region.",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "type": "tags",
+      "categories": [
+        {
+          "title": "Frontend",
+          "skills": [
+            "React.js",
+            "Next.js",
+            "Vue.js",
+            "Vite",
+            "Svelte",
+            "TypeScript",
+            "Tailwind CSS",
+            "Storybook",
+            "Floating UI",
+            "Zustand",
+            "Redux Toolkit"
+          ]
+        },
+        {
+          "title": "Backend",
+          "skills": [
+            "Node.js",
+            "NestJS",
+            "Express.js",
+            "Django",
+            "FastAPI",
+            "Prisma ORM",
+            "PostgreSQL",
+            "MongoDB",
+            "Redis",
+            "REST APIs",
+            "GraphQL"
+          ]
+        },
+        {
+          "title": "DevOps & Infrastructure",
+          "skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS (EC2, S3, RDS)",
+            "Nginx",
+            "CI/CD Pipelines",
+            "JMeter",
+            "Nx Monorepo"
+          ]
+        },
+        {
+          "title": "Mobile Development",
+          "skills": [
+            "React Native",
+            "Expo",
+            "Android",
+            "Push Notifications",
+            "Firebase"
+          ]
+        },
+        {
+          "title": "Emerging Tech",
+          "skills": [
+            "AI Agents",
+            "Make.com Automation",
+            "Blockchain",
+            "Smart Contracts",
+            "Subgraph Development"
+          ]
+        },
+        {
+          "title": "Tools & Other Expertise",
+          "skills": [
+            "Git",
+            "Figma",
+            "Jira",
+            "Postman",
+            "ESLint",
+            "Prettier",
+            "Agile Development"
+          ]
         }
       ]
     },
@@ -25,12 +150,20 @@
       "type": "links",
       "links": [
         {
-          "title": "Website",
-          "url": "https://example.com"
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/afaq-karim/"
         },
         {
           "title": "GitHub",
-          "url": "https://github.com/example"
+          "url": "https://github.com/afaq-karim"
+        },
+        {
+          "title": "X (Twitter)",
+          "url": "https://x.com/karim_afaq"
+        },
+        {
+          "title": "Website",
+          "url": "https://www.mygilgitbaltistan.com/"
         }
       ]
     }
