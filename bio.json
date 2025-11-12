@@ -65,83 +65,31 @@
     },
     {
       "title": "Skills",
-      "type": "tags",
-      "categories": [
+      "type": "list",
+      "items": [
         {
           "title": "Frontend",
-          "skills": [
-            "React.js",
-            "Next.js",
-            "Vue.js",
-            "Vite",
-            "Svelte",
-            "TypeScript",
-            "Tailwind CSS",
-            "Storybook",
-            "Floating UI",
-            "Zustand",
-            "Redux Toolkit"
-          ]
+          "description": "React.js, Next.js, Vue.js, Vite, Svelte, TypeScript, Tailwind CSS, Storybook, Floating UI, Zustand, Redux Toolkit"
         },
         {
           "title": "Backend",
-          "skills": [
-            "Node.js",
-            "NestJS",
-            "Express.js",
-            "Django",
-            "FastAPI",
-            "Prisma ORM",
-            "PostgreSQL",
-            "MongoDB",
-            "Redis",
-            "REST APIs",
-            "GraphQL"
-          ]
+          "description": "Node.js, NestJS, Express.js, Django, FastAPI, Prisma ORM, PostgreSQL, MongoDB, Redis, REST APIs, GraphQL"
         },
         {
           "title": "DevOps & Infrastructure",
-          "skills": [
-            "Docker",
-            "Kubernetes",
-            "AWS (EC2, S3, RDS)",
-            "Nginx",
-            "CI/CD Pipelines",
-            "JMeter",
-            "Nx Monorepo"
-          ]
+          "description": "Docker, Kubernetes, AWS (EC2, S3, RDS), Nginx, CI/CD Pipelines, JMeter, Nx Monorepo"
         },
         {
           "title": "Mobile Development",
-          "skills": [
-            "React Native",
-            "Expo",
-            "Android",
-            "Push Notifications",
-            "Firebase"
-          ]
+          "description": "React Native, Expo, Android, Push Notifications, Firebase"
         },
         {
           "title": "Emerging Tech",
-          "skills": [
-            "AI Agents",
-            "Make.com Automation",
-            "Blockchain",
-            "Smart Contracts",
-            "Subgraph Development"
-          ]
+          "description": "AI Agents, Make.com Automation, Blockchain, Smart Contracts, Subgraph Development"
         },
         {
           "title": "Tools & Other Expertise",
-          "skills": [
-            "Git",
-            "Figma",
-            "Jira",
-            "Postman",
-            "ESLint",
-            "Prettier",
-            "Agile Development"
-          ]
+          "description": "Git, Figma, Jira, Postman, ESLint, Prettier, Agile Development"
         }
       ]
     },
