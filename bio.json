@@ -13,6 +13,12 @@
       "type": "list",
       "items": [
         {
+          "title": "Full Stack Developer - Devops Engineer",
+          "description": "Architected and built an AI-driven CRM (Admin + Customer Portals) for eAngels.de, owning full-stack development, infrastructure, and DevOps end-to-end.",
+          "url": "https://www.eangels.de",
+          "date": "2025-Present"
+        },
+        {
           "title": "Senior Frontend Developer — Junction Net AI",
           "description": "Leading frontend architecture using React, Vue, and Nx monorepo. Building reusable design systems and scalable multi-tenant web applications with advanced authentication, smart filters, and dynamic forms.",
           "url": "https://junctionnet.ai",
@@ -20,7 +26,7 @@
         },
         {
           "title": "Founder & Lead Developer — GilgitApp",
-          "description": "Architected and developed a full-stack mobile app for tourism in Gilgit-Baltistan with real-time chat, location tracking, and booking systems. Achieved over 500,000 downloads on Google Play Store.",
+          "description": "Designed and scaled Gilgit.app, a full-stack marketplace across Web, iOS, and Android for the Pakistan market, supporting buy/sell listings, real-time chat, and buyer request flows, reaching 800,000+ users.",
           "url": "https://play.google.com/store/apps/details?id=com.gilgitapp",
           "date": "2019–2023"
         },
